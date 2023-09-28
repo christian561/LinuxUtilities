@@ -1,0 +1,10 @@
+This is a file
+  which has
+multiple lines
+    with various indentation,
+blank lines
+
+
+
+a really long line to show that getline() will reallocate the line buffer if the length of a line is too long to fit in the buffer it has been give long line to show that getline() will reallocate the line buffer if the length of a line is too long to fit in the buffer it has been given,
+  and punctuation at the end of the lines.
